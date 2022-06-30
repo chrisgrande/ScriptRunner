@@ -8,5 +8,5 @@
 
 // array of known script md5s
 let knownScripts =
-    ["b38e76112bcc75f11eb4d26e2fae8b2f",
+    ["64b33fd2d1c2fc2908ac881ee0dd3711",
      "70e2146a11cc645c3cfba5543eedd9e3"]
